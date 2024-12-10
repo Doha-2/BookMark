@@ -1,0 +1,21 @@
+.bookmark h1{
+  font-family: "Pacifico", cursive;
+  font-size: 50px;
+text-shadow: #B4AC4A;
+
+  
+
+}
+body{
+  background-color: antiquewhite;
+}
+h2{
+  color: #B4AC4A;
+  
+}
+button{
+width: 19%;}
+hr{
+  border: 2px dashed black !important;
+opacity: 75%;
+}
